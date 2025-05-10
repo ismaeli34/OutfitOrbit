@@ -4,6 +4,10 @@ This angular application is designed to facilitate the buying and selling of clo
 
 ![4](https://github.com/ismaeli34/zalando-ecommerce-angular/assets/17925504/2c0ab334-b9c0-42bf-b850-df5136825631)
 ![2](https://github.com/ismaeli34/zalando-ecommerce-angular/assets/17925504/da59b6fd-61ee-43be-b2b4-ebeefaa7a754)
+![filter_ecommerce](https://github.com/user-attachments/assets/371f68fc-7bfd-4de9-8b34-2ba7fc5cc25d)
+![order_placed](https://github.com/user-attachments/assets/f7203a9f-bd68-4757-9484-d4902040ffbd)
+![checkout_ecommerce](https://github.com/user-attachments/assets/54009fde-054f-408e-9710-4493922c01ff)
+![cart_ecommerce](https://github.com/user-attachments/assets/e0a55551-31f9-40cf-9563-391a616fed62)
 ![5](https://github.com/ismaeli34/zalando-ecommerce-angular/assets/17925504/ea07b150-d26b-4bea-82ba-2207b8753962)
 ![3](https://github.com/ismaeli34/zalando-ecommerce-angular/assets/17925504/9cdfe55d-96e5-4484-bbe3-a0cd3a3d6890)
 ![1](https://github.com/ismaeli34/zalando-ecommerce-angular/assets/17925504/16cf744b-f3bc-48a7-a16b-70611c3be952)
